@@ -1,0 +1,29 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               badkeyman
+tagline:             'blog'
+description:         'badkeyman blog'
+url:                 http://badkeyman.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              badkeyman 
+  url:               https://twitter.com/badkeyman
+  email:             badkeyman@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["footnotes", "smart", "tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
