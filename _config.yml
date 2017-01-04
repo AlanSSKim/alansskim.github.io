@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               "Alan's"
+title:               "Alan"
 tagline:             'blog'
-description:         "Alan's blog"
+description:         'Alans blog'
 url:                 http://alansskim.github.io
 baseurl:             ''
 paginate:            5
