@@ -5,18 +5,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               badkeyman
+title:               Alan
 tagline:             'blog'
-description:         'badkeyman blog'
-url:                 http://badkeyman.github.io
+description:         'Alan's blog'
+url:                 http://alansskim.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              badkeyman 
-  url:               https://twitter.com/badkeyman
-  email:             badkeyman@gmail.com
+  name:              Alan
+  url:               http://alansskim.github.io
+  email:             alan@test.com
 
 # Custom vars
 version:             1.0.0
