@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Alan
 tagline:             'blog'
-description:         'Alans blog'
+description:         'Alan &apos; s blog'
 url:                 http://alansskim.github.io
 baseurl:             ''
 paginate:            5
