@@ -1,9 +1,9 @@
 ---
 layout: page
-date: 2015-07-16
+date: 2017-01-06
 title: About
 ---
 
-### 나중에 ...
+### Alan's Blog
 
 
